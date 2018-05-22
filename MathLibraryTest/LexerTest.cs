@@ -19,5 +19,12 @@ namespace MathLibraryTest
             Assert.AreEqual("(literal)", tokens[0].Type);
             Assert.AreEqual("1234", tokens[0].Value);
         }
+     [TestMethod]
+        [ExpectedException(typeof(Exception))]
+        public void TestMethod2()
+        {
+            MathLexer l = new MathLexer();
+            List<Token> tokens = new List<Token>(l.Tokenize("12 | 34"));
+        }
     }
 }
