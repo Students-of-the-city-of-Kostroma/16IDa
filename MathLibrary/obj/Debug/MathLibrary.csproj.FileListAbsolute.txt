@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\16ид3а\MathCAD\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\student\Desktop\16ид3а\MathCAD\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\student\Desktop\16ид3а\MathCAD\MathLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Desktop\16ид3а\MathCAD\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\student\Desktop\16ид3а\MathCAD\MathLibrary\obj\Debug\MathLibrary.pdb

@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\16ид3а\MathCAD\MathLibraryTest\bin\Debug\MathLibraryTest.dll
+C:\Users\student\Desktop\16ид3а\MathCAD\MathLibraryTest\bin\Debug\MathLibraryTest.pdb
+C:\Users\student\Desktop\16ид3а\MathCAD\MathLibraryTest\bin\Debug\MathLibrary.dll
+C:\Users\student\Desktop\16ид3а\MathCAD\MathLibraryTest\bin\Debug\MathLibrary.pdb
+C:\Users\student\Desktop\16ид3а\MathCAD\MathLibraryTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Desktop\16ид3а\MathCAD\MathLibraryTest\obj\Debug\MathLibraryTest.dll
+C:\Users\student\Desktop\16ид3а\MathCAD\MathLibraryTest\obj\Debug\MathLibraryTest.pdb
