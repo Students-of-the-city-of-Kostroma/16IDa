@@ -1,0 +1,6 @@
+F:\Орлов\InfixToPostfix1\InfixToPostfix1\bin\Debug\InfixToPostfix1.exe
+F:\Орлов\InfixToPostfix1\InfixToPostfix1\bin\Debug\InfixToPostfix1.pdb
+F:\Орлов\InfixToPostfix1\InfixToPostfix1\obj\Debug\InfixToPostfix1.csprojResolveAssemblyReference.cache
+F:\Орлов\InfixToPostfix1\InfixToPostfix1\obj\Debug\InfixToPostfix1.csproj.CoreCompileInputs.cache
+F:\Орлов\InfixToPostfix1\InfixToPostfix1\obj\Debug\InfixToPostfix1.exe
+F:\Орлов\InfixToPostfix1\InfixToPostfix1\obj\Debug\InfixToPostfix1.pdb
